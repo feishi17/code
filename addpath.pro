@@ -1,7 +1,6 @@
 Viewing contents of file '../idllib/contrib/esrg_ucsb/addpath.pro'
 pro addpath,pathname,cut=cut
 ;+
-; ROUTINE:  addpath
 ;
 ; PURPOSE:  
 ;
